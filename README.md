@@ -30,4 +30,4 @@ By executing a benchmark on a dataset of **5,000,000 data points**, the Rust ext
 6. python benchmark.py  **Run the benchmark**
 
 ## 🤝 Need to optimize your Python app?
-If your Django/FastAPI app or Pandas scripts are running too slow, you don't need to abandon Python. [Contact me] to identify the bottlenecks and rewrite critical paths in Rust or C++ for massive performance gains.
+If your Django/FastAPI app or Pandas scripts are running too slow, you don't need to abandon Python. [Contact me] to identify the bottlenecks and rewrite critical paths in Rust or C++ for massive performance gains. https://www.upwork.com/freelancers/~010745b4d221a00300
